@@ -1,0 +1,7 @@
+mmu-mir-351:MI0000643:in:none	bulge1	11	-24	-14	*	------------T	------------A	---	T-A
+mmu-mir-351:MI0000643:in:none	bulge3	1	-2	-2	*	GTT	TCA	G-T	T-A
+mmu-mir-351:MI0000643:in:none	bulge4	2	4	5	>	CTGA	G--T	C-G	A-T
+mmu-mir-351:MI0000643:in:none	bulge5	1	9	9	*	GAG	CGC	G-C	G-C
+mmu-mir-351:MI0000643:in:none	bulge6	1	13	13	*	CCT	GAG	C-G	T-G
+mmu-mir-351:MI0000643:in:none	bulge7	1	19	19	>	AGC	T-G	A-T	C-G
+mmu-mir-351:MI0000643:in:none	bulge8	7	24	31	*	GGAGTGAAA	CAAAAAAAA	G-C	A-A

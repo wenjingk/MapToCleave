@@ -1,0 +1,10 @@
+Cfa-Novel-14	bulge1	12	-29	-18	*	-------------G	-------------C	---	G-C
+Cfa-Novel-14	bulge2	2	-15	-14	*	ATAG	TCGT	A-T	G-T
+Cfa-Novel-14	bulge3	1	-9	-9	*	ATC	TCG	A-T	C-G
+Cfa-Novel-14	bulge4	1	-6	-6	*	GTC	TCG	G-T	C-G
+Cfa-Novel-14	bulge5	1	-4	-4	*	CCG	GTC	C-G	G-C
+Cfa-Novel-14	bulge6	3	0	1	<	C-ATC	GATCG	C-G	C-G
+Cfa-Novel-14	bulge8	1	14	14	*	TTA	GTT	T-G	A-T
+Cfa-Novel-14	bulge9	1	19	19	>	TTG	A-C	T-A	G-C
+Cfa-Novel-14	bulge10	2	23	24	>	GCAA	C--T	G-C	A-T
+Cfa-Novel-14	bulge11	1	28	29	*	ATC	TTC	A-T	C-C

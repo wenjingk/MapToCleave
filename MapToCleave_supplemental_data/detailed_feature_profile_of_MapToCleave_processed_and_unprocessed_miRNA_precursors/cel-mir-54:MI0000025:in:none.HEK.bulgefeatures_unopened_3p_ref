@@ -1,0 +1,11 @@
+cel-mir-54:MI0000025:in:none	bulge1	8	-25	-18	*	---------G	---------C	---	G-C
+cel-mir-54:MI0000025:in:none	bulge2	1	-15	-15	*	TGA	AGT	T-A	A-T
+cel-mir-54:MI0000025:in:none	bulge3	3	-11	-10	>	TCGCG	G-ATC	T-G	G-C
+cel-mir-54:MI0000025:in:none	bulge4	1	0	0	*	TAG	AGC	T-A	G-C
+cel-mir-54:MI0000025:in:none	bulge5	1	5	5	<	T-A	AAT	T-A	A-T
+cel-mir-54:MI0000025:in:none	bulge6	1	10	10	<	A-G	TTC	A-T	G-C
+cel-mir-54:MI0000025:in:none	bulge7	2	13	14	*	ACGA	TAAT	A-T	A-T
+cel-mir-54:MI0000025:in:none	bulge8	1	18	18	*	GAG	CCC	G-C	G-C
+cel-mir-54:MI0000025:in:none	bulge9	1	20	20	*	GAA	CAT	G-C	A-T
+cel-mir-54:MI0000025:in:none	bulge10	3	24	26	*	ATTGC	TTCAG	A-T	C-G
+cel-mir-54:MI0000025:in:none	bulge11	1	31	32	*	TTT	AAT	T-A	T-T

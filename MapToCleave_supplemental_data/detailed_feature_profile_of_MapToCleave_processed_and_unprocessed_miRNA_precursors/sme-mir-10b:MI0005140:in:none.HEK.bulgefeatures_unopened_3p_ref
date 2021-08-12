@@ -1,0 +1,10 @@
+sme-mir-10b:MI0005140:in:none	bulge1	6	-20	-15	*	-------C	-------G	---	C-G
+sme-mir-10b:MI0005140:in:none	bulge2	2	-5	-5	>	GATC	T-CG	G-T	C-G
+sme-mir-10b:MI0005140:in:none	bulge3	2	-2	-1	*	TGAA	AAGT	T-A	A-T
+sme-mir-10b:MI0005140:in:none	bulge4	1	3	3	*	CCT	GAA	C-G	T-A
+sme-mir-10b:MI0005140:in:none	bulge5	1	6	6	*	GTA	CTT	G-C	A-T
+sme-mir-10b:MI0005140:in:none	bulge6	1	11	11	*	TCC	AAG	T-A	C-G
+sme-mir-10b:MI0005140:in:none	bulge7	1	15	15	*	AGT	TAA	A-T	T-A
+sme-mir-10b:MI0005140:in:none	bulge8	2	23	24	<	T--A	ACTT	T-A	A-T
+sme-mir-10b:MI0005140:in:none	bulge9	2	30	31	<	C--C	GAAG	C-G	C-G
+sme-mir-10b:MI0005140:in:none	bulge10	4	35	39	*	ATGTTG	TTTGAG	A-T	G-G

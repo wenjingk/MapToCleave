@@ -1,0 +1,6 @@
+mmu-mir-3061:MI0014023:in:none	bulge1	12	-25	-14	*	-------------G	-------------T	---	G-T
+mmu-mir-3061:MI0014023:in:none	bulge2	1	8	8	*	CCG	GAT	C-G	G-T
+mmu-mir-3061:MI0014023:in:none	bulge3	1	11	11	*	TGA	AGT	T-A	A-T
+mmu-mir-3061:MI0014023:in:none	bulge4	3	23	25	>	TGGTG	A-ATC	T-A	G-C
+mmu-mir-3061:MI0014023:in:none	bulge5	1	27	27	*	GGT	CGA	G-C	T-A
+mmu-mir-3061:MI0014023:in:none	bulge6	2	30	32	*	CCCC	GTTT	C-G	C-T

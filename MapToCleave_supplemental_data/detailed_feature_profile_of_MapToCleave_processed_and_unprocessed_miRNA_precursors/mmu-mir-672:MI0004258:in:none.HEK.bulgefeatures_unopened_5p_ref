@@ -1,0 +1,6 @@
+mmu-mir-672:MI0004258:in:none	bulge1	13	-25	-13	*	--------------G	--------------C	---	G-C
+mmu-mir-672:MI0004258:in:none	bulge3	1	-4	-4	*	AGT	TGA	A-T	T-A
+mmu-mir-672:MI0004258:in:none	bulge4	1	5	5	*	GTT	CTA	G-C	T-A
+mmu-mir-672:MI0004258:in:none	bulge5	1	11	11	>	GTA	C-T	G-C	A-T
+mmu-mir-672:MI0004258:in:none	bulge6	2	23	24	*	AGTA	TATT	A-T	A-T
+mmu-mir-672:MI0004258:in:none	bulge7	3	26	29	*	ATACA	TTATA	A-T	A-A

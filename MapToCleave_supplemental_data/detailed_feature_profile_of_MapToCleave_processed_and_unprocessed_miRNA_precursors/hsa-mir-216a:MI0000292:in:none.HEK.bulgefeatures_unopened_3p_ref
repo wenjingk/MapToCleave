@@ -1,0 +1,8 @@
+hsa-mir-216a:MI0000292:in:none	bulge1	7	-20	-14	*	--------G	--------C	---	G-C
+hsa-mir-216a:MI0000292:in:none	bulge2	1	-10	-10	*	TGT	AGA	T-A	T-A
+hsa-mir-216a:MI0000292:in:none	bulge3	2	-7	-7	>	GAGT	C-AA	G-C	T-A
+hsa-mir-216a:MI0000292:in:none	bulge4	1	-1	-1	*	CTT	GTA	C-G	T-A
+hsa-mir-216a:MI0000292:in:none	bulge5	2	9	9	>	GCTG	C-TC	G-C	G-C
+hsa-mir-216a:MI0000292:in:none	bulge6	1	13	13	*	CAA	GGT	C-G	A-T
+hsa-mir-216a:MI0000292:in:none	bulge7	4	22	25	<	G---AT	CCCTAA	G-C	T-A
+hsa-mir-216a:MI0000292:in:none	bulge8	1	29	30	*	TTC	ATA	T-A	C-A

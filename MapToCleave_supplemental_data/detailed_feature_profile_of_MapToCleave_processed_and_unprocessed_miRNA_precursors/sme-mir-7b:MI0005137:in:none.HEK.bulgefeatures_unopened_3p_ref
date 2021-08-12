@@ -1,0 +1,5 @@
+sme-mir-7b:MI0005137:in:none	bulge1	11	-22	-12	*	------------A	------------T	---	A-T
+sme-mir-7b:MI0005137:in:none	bulge4	1	8	8	*	ACT	TAA	A-T	T-A
+sme-mir-7b:MI0005137:in:none	bulge5	2	15	16	*	ATTT	TTTA	A-T	T-A
+sme-mir-7b:MI0005137:in:none	bulge6	4	24	24	>	TCAGAG	A---AT	T-A	G-T
+sme-mir-7b:MI0005137:in:none	bulge7	1	30	31	*	TTT	AAT	T-A	T-T

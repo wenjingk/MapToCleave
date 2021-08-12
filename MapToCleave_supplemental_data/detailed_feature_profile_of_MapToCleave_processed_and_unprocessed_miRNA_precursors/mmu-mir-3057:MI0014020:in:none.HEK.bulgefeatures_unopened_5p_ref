@@ -1,0 +1,10 @@
+mmu-mir-3057:MI0014020:in:none	bulge1	11	-25	-15	*	------------C	------------G	---	C-G
+mmu-mir-3057:MI0014020:in:none	bulge2	1	-10	-10	*	AAG	TAC	A-T	G-C
+mmu-mir-3057:MI0014020:in:none	bulge3	1	-6	-6	*	TGT	GAA	T-G	T-A
+mmu-mir-3057:MI0014020:in:none	bulge4	1	0	0	>	CAT	G-A	C-G	T-A
+mmu-mir-3057:MI0014020:in:none	bulge5	2	2	3	*	TTGG	ATAC	T-A	G-C
+mmu-mir-3057:MI0014020:in:none	bulge6	1	10	10	>	GAG	C-C	G-C	G-C
+mmu-mir-3057:MI0014020:in:none	bulge7	2	12	13	>	GATT	C-CG	G-C	T-G
+mmu-mir-3057:MI0014020:in:none	bulge8	1	18	18	*	GCG	CAC	G-C	G-C
+mmu-mir-3057:MI0014020:in:none	bulge9	1	23	23	>	ATG	T-C	A-T	G-C
+mmu-mir-3057:MI0014020:in:none	bulge10	5	28	33	*	TTAGGAG	GTTATAT	T-G	G-T

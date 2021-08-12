@@ -1,0 +1,7 @@
+dme-mir-2b-2:MI0000120:in:none	bulge1	11	-24	-14	*	------------G	------------C	---	G-C
+dme-mir-2b-2:MI0000120:in:none	bulge2	1	-10	-10	*	GAA	CGT	G-C	A-T
+dme-mir-2b-2:MI0000120:in:none	bulge3	1	-1	-1	*	CAT	GCG	C-G	T-G
+dme-mir-2b-2:MI0000120:in:none	bulge4	1	10	10	<	G-T	CGA	G-C	T-A
+dme-mir-2b-2:MI0000120:in:none	bulge5	1	20	20	*	AAA	TAT	A-T	A-T
+dme-mir-2b-2:MI0000120:in:none	bulge6	5	24	28	<	G--TTTG	CTTATCC	G-C	G-C
+dme-mir-2b-2:MI0000120:in:none	bulge7	3	31	34	*	CCTTT	GTATT	C-G	T-T

@@ -1,0 +1,6 @@
+hsa-mir-520h:MI0003175:in:none	bulge1	14	-27	-14	*	---------------T	---------------A	---	T-A
+hsa-mir-520h:MI0003175:in:none	bulge2	1	-8	-8	*	ATG	TTT	A-T	G-T
+hsa-mir-520h:MI0003175:in:none	bulge3	1	-5	-5	*	CTG	GTC	C-G	G-C
+hsa-mir-520h:MI0003175:in:none	bulge4	2	1	2	>	CCCT	G--A	C-G	T-A
+hsa-mir-520h:MI0003175:in:none	bulge6	2	19	20	>	TTCT	A--A	T-A	T-A
+hsa-mir-520h:MI0003175:in:none	bulge7	6	26	32	*	TGTTGTCT	AAAAGAGT	T-A	T-T

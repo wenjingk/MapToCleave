@@ -1,0 +1,9 @@
+mmu-mir-449c:MI0004645:in:none	bulge1	10	-27	-18	*	-----------A	-----------T	---	A-T
+mmu-mir-449c:MI0004645:in:none	bulge3	3	-6	-4	*	ACTCG	TTCCT	A-T	G-T
+mmu-mir-449c:MI0004645:in:none	bulge4	1	1	1	>	TAG	A-C	T-A	G-C
+mmu-mir-449c:MI0004645:in:none	bulge5	1	7	7	*	GTG	CCC	G-C	G-C
+mmu-mir-449c:MI0004645:in:none	bulge6	1	10	10	*	TTG	ATC	T-A	G-C
+mmu-mir-449c:MI0004645:in:none	bulge7	1	14	14	>	TAG	A-C	T-A	G-C
+mmu-mir-449c:MI0004645:in:none	bulge8	1	16	16	>	GCT	C-A	G-C	T-A
+mmu-mir-449c:MI0004645:in:none	bulge9	2	24	25	>	CGTT	G--A	C-G	T-A
+mmu-mir-449c:MI0004645:in:none	bulge10	2	29	31	*	GGTC	CGGA	G-C	C-A

@@ -1,0 +1,7 @@
+dme-mir-1002:MI0005824:in:none	bulge1	11	-27	-17	*	------------A	------------T	---	A-T
+dme-mir-1002:MI0005824:in:none	bulge2	2	-14	-13	*	TTAG	ATGT	T-A	G-T
+dme-mir-1002:MI0005824:in:none	bulge3	2	-5	-4	*	ATAT	TCGA	A-T	T-A
+dme-mir-1002:MI0005824:in:none	bulge4	1	-1	-1	*	ATT	TCA	A-T	T-A
+dme-mir-1002:MI0005824:in:none	bulge5	3	8	10	*	GTGGA	CCAGT	G-C	A-T
+dme-mir-1002:MI0005824:in:none	bulge6	3	17	19	>	AAGGG	T--AC	A-T	G-C
+dme-mir-1002:MI0005824:in:none	bulge7	6	25	31	*	TTTGATAT	GTGAAAAT	T-G	T-T

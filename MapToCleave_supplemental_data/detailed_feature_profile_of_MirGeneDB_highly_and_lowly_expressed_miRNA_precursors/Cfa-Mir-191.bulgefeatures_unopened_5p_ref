@@ -1,0 +1,8 @@
+Cfa-Mir-191	bulge1	15	-29	-15	*	----------------G	----------------C	---	G-C
+Cfa-Mir-191	bulge2	1	-11	-11	*	CTG	GTC	C-G	G-C
+Cfa-Mir-191	bulge3	1	-7	-7	*	ACA	TCT	A-T	A-T
+Cfa-Mir-191	bulge4	1	0	0	*	GCA	CCT	G-C	A-T
+Cfa-Mir-191	bulge5	1	11	11	>	CCA	G-T	C-G	A-T
+Cfa-Mir-191	bulge6	2	14	15	*	AAAG	TCGC	A-T	G-C
+Cfa-Mir-191	bulge7	3	23	23	<	G--TT	CCTTA	G-C	T-A
+Cfa-Mir-191	bulge8	3	27	30	*	TCTCC	GAGAC	T-G	C-C

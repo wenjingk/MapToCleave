@@ -1,0 +1,11 @@
+pre-miRNA	UCAUUGAUUAUAGUUAUCUAAUUUGAAAACCUCCAAAGUGAUUGUGAAUAAAAGUUUUAUUAAUUUAAUCACAGUCAGCAUUGGUGGUUUGAAAGUAGAGUGAUCUUACAAUCGAAUC
+seq_5p	ACCUCCAAAGUGAUUGUGAAU
+seq_3p	AGUCAGCAUUGGUGGUUU
+structure	fold
+start_5p	28
+end_5p	49
+start_3p	72
+end_3p	90
+stem_length_with_unopened_5pAsRef	40
+basal_stem_length_with_unopened_5pAsRef	16
+miRNA_duplex_length_with_unopened_5pAsRef	24

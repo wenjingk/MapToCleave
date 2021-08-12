@@ -1,0 +1,9 @@
+Mmu-Mir-34-P2b	bulge1	15	-29	-15	*	----------------T	----------------A	---	T-A
+Mmu-Mir-34-P2b	bulge2	1	-13	-13	*	TGA	AGT	T-A	A-T
+Mmu-Mir-34-P2b	bulge3	2	-7	-6	*	TAGT	AAAA	T-A	T-A
+Mmu-Mir-34-P2b	bulge4	1	0	0	*	TAG	GAC	T-G	G-C
+Mmu-Mir-34-P2b	bulge5	1	4	4	*	CAG	GAC	C-G	G-C
+Mmu-Mir-34-P2b	bulge6	1	9	9	*	TAG	ACC	T-A	G-C
+Mmu-Mir-34-P2b	bulge7	1	15	15	>	GCT	C-A	G-C	T-A
+Mmu-Mir-34-P2b	bulge8	1	22	22	*	GCT	CCA	G-C	T-A
+Mmu-Mir-34-P2b	bulge9	1	25	26	*	AAT	TGA	A-T	T-A

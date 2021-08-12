@@ -1,0 +1,10 @@
+cel-mir-64:MI0000035:in:none	bulge1	9	-25	-17	*	----------G	----------T	---	G-T
+cel-mir-64:MI0000035:in:none	bulge2	1	-12	-12	*	GAC	CCG	G-C	C-G
+cel-mir-64:MI0000035:in:none	bulge3	1	-10	-10	<	C-C	GCG	C-G	C-G
+cel-mir-64:MI0000035:in:none	bulge4	1	-7	-7	*	TCG	ATC	T-A	G-C
+cel-mir-64:MI0000035:in:none	bulge5	1	-1	-1	*	AAT	TCG	A-T	T-G
+cel-mir-64:MI0000035:in:none	bulge6	1	4	4	*	GAC	CGG	G-C	C-G
+cel-mir-64:MI0000035:in:none	bulge7	2	11	11	>	AAGC	T-AG	A-T	C-G
+cel-mir-64:MI0000035:in:none	bulge8	2	15	16	<	T--T	AACG	T-A	T-G
+cel-mir-64:MI0000035:in:none	bulge9	1	24	24	<	A-C	TAG	A-T	C-G
+cel-mir-64:MI0000035:in:none	bulge10	5	28	33	*	GTTTTCC	TCCACAC	G-T	C-C
