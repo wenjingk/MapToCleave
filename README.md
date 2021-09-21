@@ -70,7 +70,7 @@ id="hsa-mir-371a:MI0000779:in:none"
 python3.6 get_free_energy_of_7-mer_scan.py data/${id}.fold
 ```
 
-4. Calculate positional shannon entropy using the same approach in `Rice et al. 2020` ([here]()).
+4. Calculate positional shannon entropy using the same approach in `Rice et al. 2020` ([here](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30735-8)).
 
 ```bash
 id="hsa-mir-371a:MI0000779:in:none"
